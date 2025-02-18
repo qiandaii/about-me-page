@@ -1,6 +1,6 @@
 
 body {
-    background-image: url("frutiger-aero/970b16147f43f0c24a57d0bc15e3fffb.jpg");
+    background-image: url("../frutiger-aero/970b16147f43f0c24a57d0bc15e3fffb.jpg");
     background-size: cover; 
     animation: transitionIn 1.5s;
 }
